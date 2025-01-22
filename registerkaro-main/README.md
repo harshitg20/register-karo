@@ -2,7 +2,7 @@
 ## Live Demo
 
 Check out the live demo of the project here:  
-[Vercel Deployment Link](https://registerkaro-wheat.vercel.app)
+[Vercel Deployment Link](https://register-karo-harshit.vercel.app/)
 
 ## Screenshot
 
